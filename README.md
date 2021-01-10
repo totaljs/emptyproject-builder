@@ -1,4 +1,4 @@
-# Empty Project: AppBuilder
+# Empty project: AppBuilder
 
 - [Documentation](https://docs.totaljs.com)
 - [Join to Telegram](https://t.me/totaljs)
